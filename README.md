@@ -26,5 +26,5 @@ MERN Chat App is a full-stack real-time chat application built using the MERN st
 ### Steps to Run Locally
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/iamSuva/react-chatapp
+   git clone 
    
